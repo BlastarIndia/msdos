@@ -8,7 +8,7 @@ Released into Github for the public to see.
 
 Early MS-DOS source code that Microsoft has released to an open source license.
 
-For educational uise only.
+For educational use only.
 
 
 http://blastar.in/
