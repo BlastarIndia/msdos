@@ -6,7 +6,7 @@ http://blogs.technet.com/b/microsoft_blog/archive/2014/03/25/microsoft-makes-sou
 
 Released into Github for the public to see.
 
-Early MS-DOS source code that Microsoft has relased to an open source license.
+Early MS-DOS source code that Microsoft has released to an open source license.
 
 For educational uise only.
 
